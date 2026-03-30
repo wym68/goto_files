@@ -4,6 +4,7 @@
   "description": "Ctrl+Click to open file paths in shell scripts",
   "version": "0.0.1",
   "publisher": "wym68",
+  "repository": "https://github.com/wym68/goto_files",
   "engines": {
     "vscode": "^1.75.0"
   },
