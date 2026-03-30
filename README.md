@@ -14,17 +14,7 @@ VSCode 扩展：在 Shell 脚本中实现 Ctrl+左键点击文件路径跳转。
 
 ## 安装
 
-1. 克隆项目到本地
-2. 执行 `npm install`
-3. 按 F5 启动扩展开发主机测试
-
-## 发布到 VSCode 市场
-
-```bash
-npm install -g vsce
-vsce package
-vsce publish
-```
+Vscode 插件中 搜索goto files 一键安装
 
 ## 许可证
 
