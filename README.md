@@ -1,21 +1,27 @@
 # Goto Files
 
-VSCode 扩展：在 Shell 脚本中实现 Ctrl+左键点击文件路径跳转。
+[中文文档](./README_ZH.md)
 
-## 功能
+VSCode Extension: Ctrl+Click on file paths in Shell scripts to open them directly.
 
-- **Ctrl+左键点击**：点击文件路径直接打开对应文件
-- **F12 转到定义**：光标放在路径上按 F12 跳转
-- 支持路径类型：
-  - 绝对路径：`/etc/hosts`
-  - 家目录路径：`~/scripts/my.sh`
-  - 相对路径：`./script.sh`、`../config.conf`
-  - 无前缀相对路径：`test_1/test1.py`
+## Demo
 
-## 安装
+![Demo](./doc/Demo_video.gif)
 
-Vscode 插件中 搜索goto files 一键安装
+## Features
 
-## 许可证
+- **Ctrl+Left Click**: Click on a file path to open the corresponding file directly
+- **F12 Go to Definition**: Place cursor on a path and press F12 to jump
+- Supported path types:
+  - Absolute paths: `/etc/hosts`
+  - Home directory paths: `~/scripts/my.sh`
+  - Relative paths: `./script.sh`, `../config.conf`
+  - Prefix-less relative paths: `test_1/test1.py`
+
+## Installation
+
+Search for "goto files" in the VSCode Extensions panel and install with one click.
+
+## License
 
 MIT
