@@ -1,7 +1,7 @@
 {
   "name": "goto-files",
   "displayName": "Goto Files",
-  "description": "Ctrl+Click to open file paths in shell scripts",
+  "description": "Ctrl+Click to open file paths in shell scripts and batch files",
   "version": "0.0.1",
   "publisher": "MiniFive",
   "repository": "https://github.com/wym68/goto_files",
@@ -14,12 +14,17 @@
   "keywords": [
     "shell",
     "sh",
+    "bat",
+    "batch",
+    "cmd",
+    "windows",
     "file path",
     "goto",
     "navigation"
   ],
   "activationEvents": [
-    "onLanguage:shellscript"
+    "onLanguage:shellscript",
+    "onLanguage:bat"
   ],
   "main": "./out/extension.js",
   "contributes": {},
