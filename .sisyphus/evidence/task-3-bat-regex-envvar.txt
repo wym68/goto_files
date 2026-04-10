@@ -1,0 +1,6 @@
+# Evidence: task-3-bat-regex-envvar
+# Timestamp: 2026-04-10T07:55:00Z
+# Command: node -e with vscode stub
+# Output: {"env_up":true,"env_ad":true,"tilde_dp0":false,"double_pct":false,"param1":false}
+# Expected: {"env_up":true,"env_ad":true,"tilde_dp0":false,"double_pct":false,"param1":false}
+# Verdict: PASS

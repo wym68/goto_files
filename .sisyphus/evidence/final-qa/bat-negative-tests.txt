@@ -1,0 +1,7 @@
+# Evidence: final-qa/bat-negative-tests
+# Timestamp: 2026-04-10T08:09:00Z
+# Exact matches:
+# - \\server\share => []
+# - copy \\server\share file.txt => []
+# - /Y, /?, %1, %%i, %~dp0, :end => rejected
+# Verdict: PASS

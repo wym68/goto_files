@@ -36,6 +36,11 @@ VSCode 扩展：支持在 Shell 脚本和批处理文件中通过 Ctrl+左键或
 
 在 VSCode 插件市场中搜索 `goto files` 并安装。
 
+## 致谢
+
+本项目的开发过程中使用了 [OpenCode](https://github.com/anomalyco/opencode) 项目和 [Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent) 项目的能力与工作流支持。
+特别感谢这两个项目提供的工具和思路，对本项目的实现有很大帮助。
+
 ## 许可证
 
 MIT

@@ -1,0 +1,5 @@
+# Evidence: final-qa/test-bat-coverage
+# Timestamp: 2026-04-10T08:05:00Z
+# test.bat covers relative, prefix-less, multi-level, env-var, quoted path, and negative cases
+# Known limitation documented: unquoted Windows paths with spaces unsupported
+# Verdict: PASS

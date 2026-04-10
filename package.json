@@ -2,7 +2,7 @@
   "name": "goto-files",
   "displayName": "Goto Files",
   "description": "Ctrl+Click to open file paths in shell scripts and batch files",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "MiniFive",
   "repository": "https://github.com/wym68/goto_files",
   "engines": {
@@ -36,6 +36,7 @@
   "devDependencies": {
     "@types/node": "^18.0.0",
     "@types/vscode": "^1.75.0",
+    "@vscode/vsce": "^3.7.1",
     "typescript": "^5.3.0"
   }
 }

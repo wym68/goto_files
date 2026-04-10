@@ -1,0 +1,4 @@
+# Evidence: final-qa/integration-check
+# Timestamp: 2026-04-10T08:05:00Z
+# extension imports shellProvider and batchProvider; provider modules reference utils; activate/deactivate exported
+# Verdict: PASS

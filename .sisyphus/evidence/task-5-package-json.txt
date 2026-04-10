@@ -1,0 +1,8 @@
+# Evidence: task-5-package-json
+# Timestamp: 2026-04-10T07:55:00Z
+# Checks:
+# - activationEvents contains onLanguage:shellscript: PASS
+# - activationEvents contains onLanguage:bat: PASS
+# - keywords contain bat,batch,cmd,windows: PASS
+# - description mentions batch files: PASS
+# Verdict: PASS

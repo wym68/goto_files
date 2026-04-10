@@ -1,0 +1,4 @@
+# Evidence: final-qa/shell-regression
+# Timestamp: 2026-04-10T08:05:00Z
+# shellProvider PATH_RE preserved exactly and shell activation intact
+# Verdict: PASS

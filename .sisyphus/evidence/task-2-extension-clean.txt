@@ -1,0 +1,5 @@
+# Evidence: task-2-extension-clean
+# Timestamp: 2026-04-09T17:56:47.6618162+02:00
+# Command: Select-String -Path src/extension.ts -Pattern "PATH_RE|expandHome|resolvePath|DocumentLinkProvider"
+# Output: No matches found — all shell-specific symbols absent from extension.ts
+# Verdict: PASS
