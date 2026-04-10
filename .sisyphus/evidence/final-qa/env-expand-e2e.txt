@@ -1,0 +1,4 @@
+# Evidence: final-qa/env-expand-e2e
+# Timestamp: 2026-04-10T08:05:00Z
+# Known env vars expand, unknown vars preserved
+# Verdict: PASS

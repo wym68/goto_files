@@ -1,0 +1,5 @@
+# Evidence: final-qa/f4-contamination
+# Timestamp: 2026-04-10T08:09:00Z
+# VSIX excludes .sisyphus via .vscodeignore
+# Remaining git noise on doc/test files is mode-only Windows working-tree contamination, not content changes
+# Verdict: PASS

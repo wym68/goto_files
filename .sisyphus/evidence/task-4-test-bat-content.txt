@@ -1,0 +1,10 @@
+# Evidence: task-4-test-bat-content
+# Timestamp: 2026-04-09T17:00:00Z
+# Checks performed:
+#   - .\test0.py present: PASS
+#   - test_1\test1.py present: PASS
+#   - %USERPROFILE% present: PASS
+#   - @REM comments present: PASS
+#   - test0.py file exists: PASS
+#   - test_1/test1.py file exists: PASS
+# Verdict: PASS

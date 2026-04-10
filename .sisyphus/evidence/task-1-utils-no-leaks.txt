@@ -1,0 +1,7 @@
+# Evidence: task-1-utils-no-leaks
+# Timestamp: 2026-04-09T17:39:38.8214056+02:00
+# Command: check src/utils.ts for forbidden symbols
+# Output:
+MISSING expandHome
+MISSING resolvePath
+MISSING PATH_RE

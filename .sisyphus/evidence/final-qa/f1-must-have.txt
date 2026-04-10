@@ -1,0 +1,9 @@
+# Evidence: final-qa/f1-must-have
+# Timestamp: 2026-04-10T08:05:00Z
+# Must Have:
+# - Drive-letter absolute paths: PASS
+# - Relative paths: PASS
+# - Env variable expansion: PASS
+# - Shell regression avoided: PASS
+# - Modular structure present: PASS
+# Verdict: PASS

@@ -1,0 +1,15 @@
+# Evidence: final-qa/f1-must-not-have
+# Timestamp: 2026-04-10T08:05:00Z
+# Must NOT Have:
+# - PATH_RE modified: PASS
+# - PowerShell support added: PASS
+# - UNC paths supported: PASS (UNC not matched)
+# - automated framework added: PASS
+# - webpack/esbuild added: PASS
+# - tooltip style changed: PASS
+# - label jumping added: PASS
+# - cmd path resolution added: PASS
+# - CHANGELOG created: PASS
+# - version changed: PASS
+# - %~dp0 / %%i handled as env vars: PASS
+# Verdict: PASS

@@ -1,0 +1,9 @@
+# Evidence: final-qa/bat-positive-tests
+# Timestamp: 2026-04-10T08:09:00Z
+# Exact matches:
+# - quoted path: C:\My Documents\file.txt
+# - quoted env path: %USERPROFILE%\My Documents\file.txt
+# - drive-letter absolute paths: PASS
+# - relative paths: PASS
+# - env-var paths: PASS
+# Verdict: PASS

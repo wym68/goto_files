@@ -1,0 +1,6 @@
+# Evidence: task-3-bat-regex-absolute
+# Timestamp: 2026-04-10T07:55:00Z
+# Command: node -e with vscode stub
+# Output: {"abs_bs":true,"abs_fs":true,"switch_Y":false,"switch_q":false}
+# Expected: {"abs_bs":true,"abs_fs":true,"switch_Y":false,"switch_q":false}
+# Verdict: PASS

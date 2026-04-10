@@ -36,6 +36,11 @@ Unquoted Windows paths with spaces such as `C:\Program Files\app.exe` are not su
 
 Search for `goto files` in the VSCode Extensions panel and install it.
 
+## Acknowledgements
+
+This project was developed with support from the [OpenCode](https://github.com/anomalyco/opencode) project and the [Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent) project.
+Special thanks to both projects for the tools and workflow ideas that helped shape this work.
+
 ## License
 
 MIT

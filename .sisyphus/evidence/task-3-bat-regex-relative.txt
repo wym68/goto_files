@@ -1,0 +1,6 @@
+# Evidence: task-3-bat-regex-relative
+# Timestamp: 2026-04-10T07:55:00Z
+# Command: node -e with vscode stub
+# Output: {"dot_bs":true,"dotdot_bs":true,"dot_fs":true,"prefix_bs":true,"prefix_fs":true}
+# Expected: {"dot_bs":true,"dotdot_bs":true,"dot_fs":true,"prefix_bs":true,"prefix_fs":true}
+# Verdict: PASS
